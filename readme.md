@@ -44,7 +44,7 @@ This will open visual studio code.
 
 # Copilot Primer
 ## Getting started
-If you set up the `devcontainer.json` file properly, the *Copilot* and *Copilot-Chat* extensions will be added automatically (see the toolbar on the left). You will need to log into Copilot with your GitHub username. Being members of the `ncr-poc` organization, you should have access to the service.
+If you set up the `devcontainer.json` file properly, the *Copilot* and *Copilot-Chat* extensions will be added automatically (see the toolbar on the left). You will need to log into Copilot with your GitHub username. Being members of the `THD-Copilot-Workshop` organization, you should have access to the service.
 
 ## Combine Workflows
 Make the most out of Copilot by mixing up different workflows:
