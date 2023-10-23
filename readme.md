@@ -101,7 +101,7 @@ You can even use `/tests` to add unit tests for a selected block of code.
 - Try making the code accept either a zip code, or city & state, as inputs, but not both.
 
 ## Even further tasks
-- in a completely new repository (remember to create it in the `ncr-org` organization), a new application that will tell a random joke. Use an API to find these.
-- Try doing something  *completely* different.
+- in a completely new repository (remember to create it in the `THD-Copilot-Workshop` organization), a new application that will tell a random joke. Use an API to find these.
+- Try doing something  *completely* different. Perhaps use your company's APIs to display some information on a web or CLI app.
 
 # Have fun!
