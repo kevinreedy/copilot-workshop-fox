@@ -20,20 +20,16 @@ Add a new file in GitHub/.devcontainer/devcontainer.json.
 Below, is an example devcontainer file for Python.
 ```
 {
-  "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "features": {
-    "ghcr.io/devcontainers/features/python:1": {}
-  },
-  "customizations": {
-    "vscode": {
-      "extensions": [
-        "ms-dotnettools.csharp",
-        "GitHub.copilot",
-        "GitHub.copilot-chat",
-        "withfig.fig"
-      ]
-    }
-  }
+	"name": "Python 3",
+	"image": "mcr.microsoft.com/devcontainers/python:1-3.11-bullseye",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"GitHub.copilot",
+				"GitHub.copilot-chat"
+			]
+		}
+	}
 }
 ```
 Commit the file to the main branch.
