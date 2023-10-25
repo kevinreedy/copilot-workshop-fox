@@ -17,7 +17,7 @@ Once you've created a repo, you will want to create a Codespace within which to 
 
 Add a new file in GitHub/.devcontainer/devcontainer.json.
 
-Below, is an example devcontainer file for Python.
+Below, is an example devcontainer file for Python:
 ```
 {
 	"name": "Python 3",
