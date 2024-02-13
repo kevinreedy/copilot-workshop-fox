@@ -8,7 +8,7 @@ As such, your mileage may vary, and you will be expected to take the lead, with 
 Good luck!
 
 # Getting started
-The first thing you will want to do is create a new repo. Create a repo under the `THD-Copilot-Workshop` organization. Name the repo something appropriate and unique, such as `<your username>-weather`.
+The first thing you will want to do is create a new repo. Create a repo. Name the repo something appropriate and unique, such as `<your username>-weather`.
 
 Add a `.gitignore` appropriate to your chosen language. You may add a readme file for your convenience. 
 
