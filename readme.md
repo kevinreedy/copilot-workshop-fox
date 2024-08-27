@@ -5,7 +5,7 @@ Furthermore, GitHub Copilot works with many different languages, with better sug
 
 As such, your mileage may vary, and you will be expected to take the lead, with minimal guidance. Working experience as a software developer is required.
 
-Good luck!
+Good luck!!!
 
 # Getting started
 The first thing you will want to do is create a new repo. Create a repo. Name the repo something appropriate and unique, such as `<your username>-weather`.
