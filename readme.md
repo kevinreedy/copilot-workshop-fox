@@ -72,9 +72,15 @@ Get the weather for the city and state you found.
 Use the sidebar chat interface to create a function that will get the temperature, in degrees Fahrenheit, for the city and state.
 Use a prompt such as:
 ```
-Get the temperature for the city and state, using the openweathermap.org API in imperial units.
+Get the temperature for the city and state, using the openweathermap.org API.
 ```
 > The openweathermap.org API is also public and free. You will, however, have to register for it, and create an API key to use for the application. Make sure to replace any variable or constant with your actual API key.
+
+Let's find an alternative that we don't need an API key for:
+Use a prompt such as:
+```
+Replace the openweathermap.org API with another that does not require an API key
+```
 
 Highlight the main code that calls the function that gets the city and state, which you've created above (or create it now, if it doesn't exist yet), and use Copilot to also add a call to the function that gets the temperature.
 
